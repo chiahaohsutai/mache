@@ -1,0 +1,7 @@
+[project]
+name = "rager"
+version = "0.1.0"
+description = "LightRAG fork optimized for persistent single-graph updates and node filtering."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
